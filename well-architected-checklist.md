@@ -161,14 +161,6 @@ Refer ["Deployment/Rollback Automation"](#Deployment/Rollback-Automation) sectio
 - [ ] Provision capacity for fault tolerance.
 - [ ] Multiple replicas.
 
-### Testing
-
-- [ ] Unit tests in place.
-- [ ] Integration tests in place.
-- [ ] Benchmark tests in place.
-- [ ] Smoke tests in place.
-- [ ] Load/Performance tests in place.
-
 &nbsp;
 
 ---
